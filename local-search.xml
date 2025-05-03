@@ -8,7 +8,7 @@
     <link href="/2025/05/03/flower/"/>
     <url>/2025/05/03/flower/</url>
     
-    <content type="html"><![CDATA[<p>hello</p><figure class="highlight arcade"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs arcade"><span class="hljs-comment">// 这里是代码</span><br><span class="hljs-built_in">console</span>.<span class="hljs-built_in">log</span>(<span class="hljs-string">&#x27;Hello, world!&#x27;</span>);<br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>hello</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python">// 这里是代码<br>console.log(<span class="hljs-string">&#x27;Hello, world!&#x27;</span>);<br></code></pre></td></tr></table></figure>]]></content>
     
     
     
